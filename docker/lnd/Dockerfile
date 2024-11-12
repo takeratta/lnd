@@ -1,4 +1,4 @@
-FROM golang:1.8
+FROM golang:1.23.2
 
 MAINTAINER Olaoluwa Osuntokun <lightning.engineering>
 
