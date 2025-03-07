@@ -1,4 +1,4 @@
-FROM golang:1.8
+FROM golang:1.24.1
 
 MAINTAINER Olaoluwa Osuntokun <laolu@lightning.network>
 
